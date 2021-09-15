@@ -1,0 +1,27 @@
+Delivery APP
+
+1. Auth cycle:-
+
+The DELIVERY MAN sign in just. And he's signup or created in the admin dashboard.
+
+2. Status Cycle :-
+
+The delivery man always started with offline status (even it close the app or just made it unActive or pausing it with all these cases it will be offline) . So he should be online to receive new order.
+
+3. Order Items :-
+
+Seeing order that have been sent to the delivery man and he have to accept it
+
+4- Map screen :-
+
+Tracking the user and rest coordinates and your coordinates also with live stream updating data
+
+5- Order Screen :-
+
+Change status to delivered to ensure that you delivered that order and return the cycle again from order item screen.
+
+6- Profile :-
+
+Showing the profile data and every thing about the delivery man.
+
+## READ plugins.txt

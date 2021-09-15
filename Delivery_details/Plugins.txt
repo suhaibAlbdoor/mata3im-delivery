@@ -1,0 +1,26 @@
+flutter_bloc: => For managing themes and localization.
+
+flutter_phoenix: => for easily restart the app.
+
+shared_preferences: => Local Storage
+
+http: => Http req with backend
+
+flutter_easyloading: => for easy and fast loading
+
+get: => easily navigation and easily calling some widgets 
+
+geolocator: => getting your location data 
+
+google_maps_flutter: => google maps supported to tracking yourself and the rest and the user or customer
+
+cached_network_image: => cache images coming form network 
+
+socket_io_common_client: => advanced connection with web sockets
+
+rxdart: => Implemented Behavior stream controller 
+
+flutter_polyline_points: => To draw the correct poly lines depended on google maps directions
+
+sentry_flutter: => Wrap the code with sentry for tracking the app in the production
+
